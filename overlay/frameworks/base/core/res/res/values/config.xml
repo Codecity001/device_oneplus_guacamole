@@ -408,4 +408,7 @@
          1: Right side -->
     <integer name="config_alertSliderLocation">1</integer>
 
+    <!-- Whether show refresh rate QS tile -->
+    <bool name="config_showRefreshRateQsTile">true</bool>
+
 </resources>

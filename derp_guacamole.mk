@@ -31,6 +31,9 @@ PRODUCT_CHARACTERISTICS := nosdcard
 # Official-ify
 DERP_BUILDTYPE := Official
 
+# FOD Animations
+EXTRA_UDFPS_ANIMATIONS := true
+
 # Boot animation
 scr_resolution := 1440
 TARGET_SCREEN_HEIGHT := 3120

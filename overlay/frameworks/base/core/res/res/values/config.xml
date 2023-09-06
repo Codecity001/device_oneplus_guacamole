@@ -411,4 +411,6 @@
     <!-- Whether show refresh rate QS tile -->
     <bool name="config_showRefreshRateQsTile">true</bool>
 
+    <!-- Whether device has warp charging support -->
+    <bool name="config_hasWarpCharger">true</bool>
 </resources>
